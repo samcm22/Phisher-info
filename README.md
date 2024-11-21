@@ -45,38 +45,52 @@ View the results on the screen. The results are also saved in a Word document at
 
 ### Example Output
 ----CHECKING---PHISHING--URL---
+
 Checking phishing URL: Safe Website: This website appears to be safe.
 
 ------URL----VALID---CHECK----
+
 The URL is valid.
 Is Valid URL: True
 
 -----URL----REACHABLE---CHECK----
+
 Is URL Reachable: True
 
 ----URL---REDIRECTION---CHECK-----
+
 Redirected URL: None
 
 -----URL---HTTP---HTTPS---CHECK----
+
 Is URL using HTTPS: True
 
 -----URL---PATH----CHECK------
+
 Contains Path: False
 
 -----URL---QUERY---PARAMETERS----
+
 Query Parameters: {}
 
 -----URL---FRAGMENT---IDENTIFIER------
+
 Fragment Identifier: 
 
 -----------------malware----info--------------
+
 No malware or phishing content detected.
 
 -------SSL---CERTIFICATE---DETAIL------
+
 Subject: [...]
+
 Issuer: [...]
+
 Expiry Date: [...]
+
 Serial Number: [...]
+
 Public Key: [...]
 
 Results saved to: C:\sam\result.docx
@@ -88,14 +102,23 @@ Results saved to: C:\sam\result.docx
 URL Check Results
 
 URL: https://example.com
+
 Valid URL: True
+
 URL Reachable: True
+
 Redirected URL: None
+
 Using HTTPS: True
+
 Contains Path: False
+
 Query Parameters: {}
+
 Fragment Identifier: 
+
 Contains Malware: False
+
 
 Thank you for using Phisher@Info tools!
 
