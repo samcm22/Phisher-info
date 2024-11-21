@@ -29,7 +29,7 @@ Ensure you have Python 3.12 or higher installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/phisher-info.git
+   git clone https://github.com/samcm22/phisher-info.git
    cd phisher-info
    pip install requests bs4 art docx
 ## Usage
@@ -131,6 +131,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Acknowledgements
 Developed by👉 Sam@cm.
+
 Powered by Python libraries like requests, BeautifulSoup, art, and docx.
 ### Disclaimer
 This tool is for educational and research purposes only. Use it responsibly and ensure compliance with applicable laws when analyzing URLs.
